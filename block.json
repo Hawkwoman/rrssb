@@ -1,0 +1,16 @@
+{
+  "name": "rrssb",
+  "description": "Ridiculously Responsive Social Sharing Buttons by KNI Labs",
+  "defaults": {
+    "name": "Cool Website",
+    "description": "Check out this cool website",
+    "url": "http://theurltoshare.com/",
+    "image": "http://theurltoshare.com/share.jpg"
+  },
+  "authors": [
+    "(Joshua Tuscan <hello@joshuatuscan.com>)",
+    "(Daniel Box <daniel@kurtnoble.com>)"
+  ],
+  "license": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "homepage": "http://kurtnoble.com/labs/rrssb/"
+}
